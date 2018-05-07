@@ -23,7 +23,8 @@ p {
 }
 
 LI {
-	line-height: 150%
+	line-height: 150%;
+	padding: 1px;
 } 
 
 #cv {
